@@ -70,6 +70,6 @@ app.listen(process.env.PORT || 4000, function(){
 });
 
 //Api Key
-//3e4a100abd888c5b8b6c6ad5faa6a929-us21
+
 //list id
 // 29ee56c487
